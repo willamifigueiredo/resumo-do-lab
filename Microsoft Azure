@@ -1,0 +1,35 @@
+# Guia Prático: Criação de Máquinas Virtuais no Microsoft Azure
+
+Este repositório foi criado como parte de um laboratório prático com o objetivo de consolidar conhecimentos sobre a criação e configuração de máquinas virtuais (VMs) na plataforma Microsoft Azure.
+
+## 🧾 Objetivo
+
+Desenvolver um guia com anotações, resumos e dicas úteis sobre o processo de criação e gerenciamento de VMs no Azure. O material pode ser utilizado como referência em projetos futuros e para reforçar os estudos.
+
+## 📚 Conteúdo
+
+- [Criando uma VM no Azure](./01-criando-vm.md)
+- [Configurando a VM após a criação](./02-configurando-vm.md)
+- [Comandos úteis (Azure CLI e PowerShell)](./03-comandos-uteis.md)
+- [Dicas e erros comuns](./04-dicas-e-erros-comuns.md)
+
+## 🛠️ Tecnologias Utilizadas
+
+- Microsoft Azure (Portal Web)
+- Azure CLI
+- PowerShell
+- Linux / Windows (dependendo da imagem da VM)
+
+## 📌 Requisitos
+
+- Conta Microsoft com acesso ao Azure
+- Navegador atualizado
+- (Opcional) Ferramentas de linha de comando: Azure CLI ou PowerShell
+
+## 📸 Imagens e Demonstrações
+
+Capturas de tela e exemplos visuais estão disponíveis na pasta [`imagens`](./imagens/).
+
+---
+
+Feito com 💻 para fins educacionais.
